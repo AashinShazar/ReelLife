@@ -11,7 +11,7 @@ When it came to the interactive and presentation portion,
 
 ## Credits
 
-# IMDb-Face.csv
+### IMDb-Face.csv
 
 @article{wang2018devil,
 	title={The Devil of Face Recognition is in the Noise},
