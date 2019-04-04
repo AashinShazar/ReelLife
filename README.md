@@ -36,7 +36,7 @@ Thirdly, extended functionality. While this demo proves the concept with the cri
 We are a group of computer nerds from San Francisco State University. 
 
 We as in:
-* Mohammad Hamza Khan: 
+* Mohammad Khan: 
 * Aashin Shazar: 
 * Aaron Jacobson: 
 
