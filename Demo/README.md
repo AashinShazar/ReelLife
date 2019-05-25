@@ -4,4 +4,4 @@
 Our final website presentation
 
 ## LiveDemo.ipynb
-The LiveDemo.ipynb contains
+The LiveDemo.ipynb contains our deliverable for the hackathon.
