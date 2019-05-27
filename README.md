@@ -36,8 +36,8 @@ Thirdly, extended functionality. While this demo proves the concept with the cri
 We are a group of computer nerds from San Francisco State University. 
 
 We as in:
-* Mohammad Khan: 
-* Aashin Shazar: 
-* Aaron Jacobson: 
+* Mohammad Khan: Project Lead
+* Aashin Shazar: Machine Learning Enthusiast 
+* Aaron Jacobson: Script King
 
 ReelLife is a project that we came together to build during the 2019 hackathon at San Francisco State University. In this repository you may find two main folders, one consisting of all the rapid prototyped scripts and our methodology taken to ensure success and another containing our final approach.
